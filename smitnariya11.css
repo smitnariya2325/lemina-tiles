@@ -1,0 +1,397 @@
+.bodymain-div {
+    margin: 10px;
+    padding: auto;
+}
+
+.maindiv {
+    display: flex;
+    align-items: center;
+}
+
+.img1 {}
+
+.button1 {
+    display: flex;
+    margin-left: 300px;
+    align-items: center;
+
+}
+
+.img2 {
+    margin: 20px;
+}
+
+.peregraf {
+    font-size: 20px;
+    margin: 0%;
+    color: orangered;
+}
+
+.hedig {
+    font-size: 50px;
+}
+
+.maindiv2 {
+    padding: 250px 250px 250px 260px;
+}
+
+.bacimg {
+    background-image: url(/1612343304.jpg);
+    height: 700px;
+    width: 1500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 100px;
+}
+
+.maindiv0 {
+    padding: 10px;
+    margin: 20px;
+}
+
+.mainimgbac2 {
+    display: flex;
+    align-items: center;
+
+}
+
+.hedigdivmain {
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+
+.hedidp1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 200px;
+}
+
+.peregraf1 {
+    font-size: 20px
+}
+
+.hedig3 {
+    color: red;
+    margin-left: 90px;
+}
+
+.imgmainp3 {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.hedig3p {
+    margin-left: 600px;
+}
+
+.imginp0 {
+    padding: 0%;
+    margin-left: 25px;
+    font-size: 20px;
+}
+
+.hedig32 {
+    color: red;
+    margin-left: 50px;
+    padding: 0%;
+}
+
+.hedig23 {
+    padding: 0%;
+}
+
+.hedigdivmain22 {
+    margin-left: 650px;
+}
+
+.pmain1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 90px;
+    font-size: 16px;
+}
+
+.bacgraundimg1 {
+    background-image: url(/testimonial-bg.jpg);
+    height: 500px;
+    width: 1500px
+}
+
+.maindivbac {
+    padding: 90px;
+}
+
+.hedig321 {
+    color: red;
+}
+
+.hedig132 {
+    font-size: 25px;
+}
+
+.imgtwo {
+    display: flex;
+}
+
+.main-div {
+    display: flex;
+    padding-left: 160px;
+}
+
+.h3main-div {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.h2main-div {
+    display: flex;
+    justify-content: center;
+}
+
+.imgmain-div {}
+
+.imgmain-div1 {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.buttonmain-div {
+    margin-left: 600px;
+    font-size: 16px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    width: 200px;
+    height: 50px;
+}
+
+.buttonmain1-div {
+    border: 2px solid red;
+    color: red;
+    height: 30px;
+    width: 130px;
+}
+
+.imginmain-div2 {
+    font-size: 15px;
+    margin-left: 30px;
+    margin: 10px;
+}
+
+.hedig4 {
+    color: red;
+    padding: 0%;
+}
+
+.hedig3-div {
+    font-size: 20px;
+    padding: 0%;
+}
+
+.buttondiv-1 {
+    border: none;
+    color: red;
+    background-color: white;
+    font-size: 15px;
+}
+
+.bacimgmain-div1 {
+    background-image: url(/project-bg.jpg);
+    margin: 10px;
+
+}
+
+.inmain-div1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.imghedig-div {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+
+
+}
+
+.hedigmain3-div {
+    color: red;
+    display: flex;
+    justify-content: center;
+}
+
+.peregrafmain1-div {
+    font-size: 20px;
+    padding: 0%;
+    display: flex;
+    justify-content: center;
+}
+
+.fname {
+    height: 35px;
+    width: 350px;
+    margin: 10px;
+}
+
+.textarea {
+    width: 350px;
+    height: 100px;
+}
+
+.phone {
+    height: 35px;
+    width: 350px;
+    margin: 10px;
+}
+
+.email {
+    height: 35px;
+    width: 350px;
+    margin: 10px;
+}
+
+.submit {
+    height: 35px;
+    width: 350px;
+
+    margin: 10px;
+    text-align: start;
+    background-color: red;
+    color: white;
+    border: none;
+}
+
+.twoitem-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.oneitem-div {
+    display: flex;
+}
+
+.formmain-div2 {
+    display: flex;
+    align-items: center;
+}
+
+.formmain-div {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.blackh1-div {
+    margin: 0%;
+    padding: 0%;
+    font-size: 18px;
+    color: white;
+}
+
+.blackh2-div {
+    font-size: 18px;
+    color: white;
+    
+
+}
+
+.blackmain-div1 {
+    display: flex;
+    padding: 20px;
+    background-color: black;
+    color: #798795;
+    
+
+}
+
+.blakp-div {}
+
+.smit {
+    display: flex;
+}
+
+.nariya {
+    display: flex;
+    flex-direction: column;
+}
+
+.maindiv-div {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.svgdiv-div {
+    display: flex;
+    gap: 20px;
+}
+
+.smit12 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+}
+
+.logomain12-div {
+    display: flex;
+    flex-direction: column;
+    margin-left: 250px;
+}
+
+.svgdiv-1 {
+    margin-right: 20px;
+    padding: 20px;
+}
+
+.imgdiv-div {
+    margin: 10px;
+    display: flex;
+}
+
+.imgdiv-div1 {
+    margin: 10px;
+    display: flex;
+}
+
+.iconsimg-div {
+    display: flex;
+    align-items: center;
+}
+
+.imgiconmain-div {
+    display: fle
+}
+#maindiv-div1{
+    display: flex;
+    align-items: center;
+}
+.twodiv-div{
+    display: flex;
+    align-items: center;
+}
+.imgmaindiv-div{
+    margin: 20px;
+}
+.pdivmain-div1{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+.ponedivmain-div{
+display: flex;
+margin-left: 250px;
+background-color: #192027;
+color: #798795;
+}
+.ptwodivmain-div{
+    display: flex;
+    margin-left: 350px;
+    color: #798795;
+}
