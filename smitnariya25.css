@@ -1,0 +1,1340 @@
+.link1 {
+    color: blueviolet;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    margin-left: 130px;
+}
+
+.link2 {
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 45px 30px;
+}
+
+.link3 {
+    color: white;
+    font-size: 16px;
+    background-color: blue;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 22px 49px;
+    margin-left: 130px;
+    border-radius: 10px;
+
+}
+
+.onemaindiv {
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.onetwodiv {
+    margin-left: 90px;
+}
+
+.hedigmain {
+    font-size: 66px;
+    color: black;
+    padding-top: 130px;
+}
+
+.spanone {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    display: block;
+    color: rgb(107, 105, 105);
+    text-transform: uppercase;
+}
+
+.peregrafone {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(41, 42, 66);
+}
+
+.spantwo {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    display: block;
+    color: rgb(107, 105, 105);
+    text-transform: uppercase;
+    margin-top: 65px;
+}
+
+.pergraftwo {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(41, 42, 66);
+
+}
+
+.spanthree {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    display: block;
+    color: rgb(107, 105, 105);
+    text-transform: uppercase;
+    margin-top: 65px;
+}
+
+.peregrafthree {
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(41, 42, 66);
+}
+
+.peregrafonediv {
+    font-size: 16px;
+    color: rgb(107, 105, 105);
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.hedigonediv {
+    font-size: 60px;
+    font-weight: 700
+}
+
+.imgmaindiv {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.7);
+    align-items: center;
+    border: 1px solid white;
+    padding: 5px 35px;
+    border-radius: 10px;
+
+}
+
+.imgmainone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 15px 50px;
+    position: relative;
+    margin-top: -450px;
+    gap: 20px;
+
+}
+
+.img1 {
+    margin: 10px;
+
+}
+
+.img2 {
+    margin: 10px;
+}
+
+.hedigsix {
+    font-size: 16px;
+    line-height: normal;
+}
+
+.imgmaindiv1 {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.7);
+    align-items: center;
+    border: 1px solid white;
+    padding: 5px 35px;
+    border-radius: 10px;
+
+}
+
+.imgmaindiv2 {
+    display: flex;
+    background-color: rgba(255, 255, 255, 0.7);
+    align-items: center;
+    border: 1px solid white;
+    padding: 5px 35px;
+    border-radius: 10px;
+
+}
+
+.pgedigmaindiv {
+    margin-left: 180px;
+    padding-top: 130px;
+}
+
+.maindivimgpdiv {
+    display: flex;
+    padding-top: 30px;
+}
+
+.peregrafmaindiv {
+    margin-left: 90px;
+    padding-top: 130px;
+}
+
+.imgmaindivone {
+    margin-left: 90px;
+    padding-top: 50px;
+    width: 94%;
+}
+
+.imgdivonemain {
+    margin-top: -650px;
+    margin-left: 700px;
+}
+
+.imgtwodivmain {
+    margin-left: 790px;
+    margin-top: -30px;
+}
+
+.imgphedigmain {
+    display: flex;
+    align-items: center;
+    border: 1px solid rgb(118, 116, 116);
+    padding: 22px 50px;
+    margin: 10px;
+    background-color: rgb(40, 39, 39);
+    border-radius: 10px;
+}
+
+.pmaindivone {
+    font-size: 20px;
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+    color: white;
+    font-style: italic;
+    font-weight: 700;
+}
+
+.hedigonemain {
+    font-size: 48px;
+    margin-top: 0%;
+    padding-top: 0%;
+    color: white;
+}
+
+.phedigmaindiv {
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+.imgzointdivmain {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 33px;
+
+}
+
+.imgphedigmain1 {
+    display: flex;
+    align-items: center;
+    padding: 22px 50px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(40, 39, 39);
+    border: 1px solid rgb(118, 116, 116);
+}
+
+.imgphedigmain2 {
+    display: flex;
+    align-items: center;
+    padding: 22px 50px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(40, 39, 39);
+    border: 1px solid rgb(118, 116, 116);
+}
+
+.imgphedigmain3 {
+    display: flex;
+    align-items: center;
+    padding: 22px 50px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(40, 39, 39);
+    border: 1px solid rgb(118, 116, 116);
+}
+
+.img1one {
+    background-color: white;
+    border: 2px solid white;
+    padding: 10px;
+    border-radius: 60px;
+}
+
+.imghedigmaindiv {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 100px;
+    width: 100%;
+    padding: 100px;
+    position: absolute;
+    border: 1px solid white;
+    background-color: black;
+    text-align: center;
+}
+
+.hedigtreediv {
+    font-size: 24px;
+    font-weight: 550;
+    font-style: italic;
+    color: rgb(88, 88, 219);
+
+}
+
+.hedigonemaindiv {
+    font-size: 60px;
+    font-weight: 700;
+    color: white;
+    padding-top: 10px;
+
+
+}
+
+.mainonedivimg {
+    border: 2px solid black;
+}
+
+.hedigtablediv {
+    font-size: 60px;
+    font-weight: 600;
+    border-left-width: 500px;
+    padding-bottom: 60px;
+
+
+}
+
+.maintablediv {
+    margin-top: 800px;
+    border-left: 2px solid black;
+    padding-right: 0%;
+
+
+}
+
+.spanonediv {
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    color: #6864ed;
+    margin-left: 30px;
+}
+
+.spandivtwodiv {
+    font-size: 20px;
+    font-style: italic;
+    margin-left: 30px;
+}
+
+.mainonelinkdiv {
+    font-size: 36px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+    margin-bottom: 30px;
+    padding: 0px 30px 30px;
+    padding-right: 0%;
+
+
+
+}
+
+.twozointmaindiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.threezointdiv {
+    display: flex;
+}
+
+.hedigfive13 {
+    transform: rotate(271deg);
+    margin-top: 900px;
+    font-size: 25px;
+    color: #6864ed;
+    padding-left: 0%;
+
+
+}
+
+.hedigpmaindiv {
+    display: flex;
+    align-items: center;
+}
+
+.mainonelinkdiv13 {
+    font-size: 36px;
+    font-weight: 700;
+    text-decoration: none;
+    color: black;
+    padding: 0px 30px 30px;
+}
+
+.hedigpmaindivone {
+    color: white;
+    font-size: 45px;
+    text-transform: uppercase;
+    font-style: italic;
+    padding: 0 34px;
+    margin: 0;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: var(--ts-white);
+}
+
+.hedigmain-div {
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    background-color: black;
+    height: 250px;
+}
+
+.hedigtwodiv {
+    font-size: 60px;
+}
+
+.hedigtwodivspan {
+    font-style: italic;
+    font-size: 60px;
+}
+
+.buttononemaindiv {
+    height: 60px;
+    width: 150px;
+    background-color: #5752da;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+.hediglinldiv {
+    color: black;
+    margin-left: 30px;
+}
+
+.maindivtwodiv {
+    display: flex;
+    align-items: center;
+}
+
+.right-arrowmaindiv {
+    margin-left: 350px;
+}
+
+.mainzointdiv1 {
+    display: flex;
+    align-items: center;
+    margin-top: 90px;
+}
+
+.pmaindivtwo {
+    display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+}
+
+.twodivzointmaindiv {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.ponemaindiv-div {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.hedigfivediv-div {
+    font-size: 25px;
+    font-weight: 700;
+    padding-bottom: 10px;
+}
+
+.ptwomaindiv-div {
+    font-size: 18px;
+    color: #5f6368;
+    font-weight: 550;
+    font-style: italic;
+
+}
+
+.twodivzoindiv-div {
+    display: flex;
+    align-items: center;
+    border-bottom: 2px solid black;
+    padding: 5px 15px 5px;
+}
+
+.maintwodivzoint1 {
+    margin-left: 150px;
+}
+
+.hedigthteediv {
+    font-size: 36px;
+    border-bottom: 2px solid black;
+}
+
+.twozointdiv-divmain {
+    margin-top: 90px;
+    display: flex;
+    align-items: center;
+}
+
+.threedivmain-div {
+    margin-left: 230px;
+}
+
+.mainonediv-div1 {}
+
+.fordivzointmaindiv {
+    margin-left: 150px;
+    border-left: 2px solid black;
+}
+
+.maindivmain-divfive {
+    margin-left: 30px;
+}
+
+.hedigfivedivmain1 {
+    margin-top: 90px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #6864ed;
+    font-style: italic;
+    margin-left: 190px;
+}
+
+.hedigroteddiv-div {
+    transform: rotate(269deg);
+    font-size: 24px;
+    font-family: var(--ts-font-dmserif);
+    font-style: italic;
+    color: #5752da;
+
+}
+
+.mainroteddiv-div1 {
+    margin-top: -380px;
+    margin-right: 1430px;
+}
+
+.twodivmain-div {
+    margin-top: 390px;
+    margin-left: 590px;
+}
+
+.hedigtwodivmain {
+    font-size: 60px;
+    font-weight: 700;
+    font-family: var(--ts-font-urbanist);
+    color: var(--ts-white);
+    margin-bottom: 50px;
+}
+
+.pimgdivmain {
+    font-size: 18px;
+    color: #6864ed;
+    font-style: italic;
+    font-weight: 500;
+    margin-bottom: 0%;
+    margin-top: 30px;
+}
+
+.hediglinkmain1 {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.threedivmain-div1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 190px;
+}
+
+.threedivmain-div2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 90px;
+}
+
+.twothreedivmain-div {
+    display: flex;
+    align-items: center;
+}
+
+.maindivforimgdiv-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.imgthreedivmain-div {
+    margin-bottom: 90px;
+}
+
+.imgicondiv-div {
+    border: 2px solid black;
+    border-radius: 305px;
+    display: flex;
+    align-items: center;
+    width: 180px;
+    height: 180px;
+    justify-content: center;
+    margin-left: 750px;
+}
+
+.hediglinkimgmain {
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+}
+
+.imgindivmaindiv {
+    margin-top: 35px;
+    margin-left: 10px;
+}
+
+.svgmaindiv {
+    border: 2px solid white;
+    width: 50px;
+    height: 50px;
+    border-radius: 305px;
+}
+
+.svgpotediv {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.svgtwomaindiv {
+    display: flex;
+    align-items: center;
+    margin-top: 90px;
+    margin-left: 330px;
+}
+
+.hedigfivedivmain-div {
+    font-size: 24px;
+    color: #6864ed;
+}
+
+.spandivmain {
+    font-size: 60px;
+    font-style: italic;
+    font-weight: 500;
+    color: white;
+}
+
+.hedigtwodivmain1 {
+    font-size: 60px;
+    color: white;
+}
+
+.hedigfive9div {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.spandivmain13 {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--ts-font-dmserif);
+    font-style: italic;
+    color: rgb(218, 186, 129);
+}
+
+.hedigspanmaindiv-div {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
+
+.imgmaindivtwodiv {
+    display: flex;
+    align-items: center;
+}
+
+.imgmain2div-div {
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+.maindivzointdiv1 {
+    display: flex;
+    align-items: center;
+}
+
+.imgdivmaindiv-div13 {
+    margin-left: 90px;
+}
+
+.maindivonemain-div {
+    border: 2px solid darkgrey;
+    border-radius: 9px;
+    width: 480px;
+    height: 300px;
+}
+
+.zointmaindivonediv {
+    display: flex;
+}
+
+.icondivmain {
+    margin-top: 35px;
+    margin-bottom: 30px;
+
+}
+
+.mainicondivone {
+    margin-left: 30px;
+}
+
+.mainhedigheaddiv-div {
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+    background-image: url(/testimonial-bg\ \(1\).jpg);
+    width: 1680px;
+    height: 700px;
+}
+
+.peregrafdivmain-div {
+    color: white;
+}
+
+.maindivonemain-div1 {
+    border: 2px solid darkgrey;
+    border-radius: 9px;
+    width: 480px;
+    height: 300px;
+    margin-left: 30px;
+}
+
+.maindivhedig-div13 {
+    display: flex;
+    align-items: center;
+}
+
+.hedigfivmainspandiv {
+    display: flex;
+    flex-direction: column;
+}
+
+.twodivmainonezointdiv {
+    margin-left: 350px;
+    margin-top: 90px;
+}
+
+.hedigtwodivmain-div13 {
+    font-size: 24px;
+    font-weight: 500;
+    font-family: var(--ts-font-dmserif);
+    font-style: italic;
+    color: #5752da;
+    margin-bottom: 22px;
+    margin-left: 150px;
+}
+.imgdivmain-onediv13{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.imgpotediv{
+    margin-left: 150px;
+}
+
+.maindivfivhedig-div13 {
+    font-size: 60px;
+    font-weight: 700;
+    font-family: var(--ts-font-urbanist);
+    color: black;
+}
+
+.spandiv13-maindiv {
+    font-size: 60px;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+
+.hedigfivdivmain13 {
+    font-size: 24px;
+    font-weight: 500;
+    font-style: italic;
+    color: #5f6368;
+    margin-bottom: 15px;
+}
+
+.hedigtwodivmain-two1div {
+    font-size: 72px;
+    font-weight: 700;
+    color: #5752da;
+    margin-bottom: 15px;
+}
+
+.spanhedigtwo {
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    margin-top: 30px;
+}
+
+.peregrafdiv-hedigspandiv {
+    font-size: 18px;
+    color: #5f6368;
+    padding-bottom: 15px;
+    border-bottom: 2px solid grey;
+    width: 320px;
+}
+
+.lidivmain {
+    font-size: 18px;
+    color: #5f6368;
+    margin-left: 10px;
+}
+
+.spandivclaas {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #6864ed;
+    margin-bottom: 10px;
+}
+
+.twospanpdivmain {
+    display: flex;
+    align-items: center;
+}
+
+.buttondivmain-one {
+    background-color: #6864ed;
+    font-size: 16px;
+    padding: 10px 30px 10px 30px;
+    width: 310px;
+}
+
+.maindivzointdivmainone {
+    border: 2px solid black;
+    width: 380px;
+    height: 530px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+.maindivforsiftdiv{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.maindivzointdivmainone1354 {
+    border: 2px solid black;
+    width: 380px;
+    height: 530px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.maindivzointdivmainone133 {
+    border: 2px solid black;
+    width: 380px;
+    height: 530px;
+    background-color: #5752da;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.hedigfivdivmain133 {
+    font-size: 24px;
+    font-weight: 500;
+    font-style: italic;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.hedigtwodivmain-two1div1 {
+    font-size: 72px;
+    font-weight: 700;
+    color: white;
+    margin-bottom: 15px;
+}
+
+.spanhedigtwo3 {
+    font-size: 20px;
+    font-weight: 500;
+    color: white;
+    margin-top: 30px;
+}
+
+.peregrafdiv-hedigspandiv33 {
+    font-size: 18px;
+    color: white;
+    padding-bottom: 15px;
+    border-bottom: 2px solid white;
+    width: 320px;
+}
+
+.twospanpdivmain334 {
+    display: flex;
+    align-items: center;
+}
+
+.spandivclaas23 {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color:orange;
+    margin-bottom: 10px;
+}
+
+.lidivmain33 {
+    font-size: 18px;
+    color: white;
+    margin-left: 10px;
+}
+
+.buttondivmain-one33 {
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 10px 30px 10px 30px;
+    width: 250px;
+    font-size: 16px;
+    padding: 10px 30px 10px 30px;
+    width: 310px;
+}
+.hedispanzointdiv-one{
+    display: flex;
+    align-items: center;
+}
+.threedivmainzointdiv{
+    display: flex;
+    align-items: center;
+    margin-left: 230px;
+    margin-top: 50px;
+}
+.maindivhedigfivtwo-div{
+    margin-left: 180px;
+    margin-top: 80px;
+}
+.spanmain-twodiv{
+    position: absolute;
+    width: 106px;
+    height: 36px;
+    top: 0;
+    right: 0;
+    font-size: 16px;
+    font-weight: 500;
+    text-align: center;
+    background-color: #6864ed;
+    margin-top: 7990px;
+    margin-right: 600px;
+    transform: rotate(270deg);
+    color: white;
+    
+    
+}
+.maindivspanmaindiv{
+    
+}
+.hedigtwodivmain-onetwodiv{
+    font-size: 50px;
+    font-weight: 700;
+    padding: 0;
+    margin-top: -12px;
+    margin-bottom: 16px;
+    margin-left: 40px; 
+}
+.spanmaindiv-divone{
+    font-style: italic;
+    font-weight: 600;
+}
+.peregrafdiv-maindivone{
+    font-size: 15px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+    
+}
+.linkadivmain-divone{
+    border: 1px solid white;
+    text-decoration: none;
+    background-color:#5752da;
+    color: white;
+    padding: 20px 30px 20px 30px;
+    border-radius: 10px;
+    margin-left: 50px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.hedigfordivmain{
+    font-size: 60px;
+    font-weight: 700;
+    color: black;
+    margin-bottom: 0;
+}
+.hedigforperegrafdivmain{
+    font-size: 24px;
+    font-weight: 600;
+    font-family: var(--ts-font-dmserif);
+    font-style: italic;
+    color: #6864ed;
+    margin-left: 20px;
+    margin-bottom: 0;
+}
+.twodivmainone-divthreediv{
+    display: flex;
+    align-items: center;
+    border: 1px solid white;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-radius: 10px;
+    padding: 10px 20px;
+}
+.twodivmainone-divthreediv1333{
+    display: flex;
+    align-items: center;
+    border: 1px solid white;
+    background-color: white;
+    margin-top: 50px;
+    border-radius: 10px;
+    padding: 10px 20px;
+    border-left: 1px solid black;
+
+}
+.mainthreedivonedivmain-div{
+    display: flex;
+    align-items: center;
+}
+.mainzointdivbgdivone-div{
+    margin-left: 90px;
+    border-left: 2px solid black;
+    margin-top: 50px;
+}
+.hedigmaindivonediv-threediv{
+    transform: rotate(-90deg);
+    font-size: 24px;
+    font-family: var(--ts-font-dmserif);
+    font-style: italic;
+    color: #5752da;
+   
+
+}
+.hedigfivemaindiv-div1333{
+    margin-top: -550px;
+    margin-right: 1090px;
+}
+.mainimgdivthreedivmain-div{
+    display: flex;
+    align-items: center;
+}
+.imgpotedivmain-div13{
+    margin-top: 500px;
+    margin-left: 9px;
+}
+.mainimgpotediv-div123{
+    margin-top: 50px;
+    justify-content: flex-start;
+}
+.mainimgdivpotemain-div1343{
+    margin-left: 90px;
+}
+.twodivmaindivimgdiv{
+    margin-left: 1210px;
+    margin-top: 103px;
+}
+.imgpotemain13div-div{
+    padding: 0%;
+    margin: 0%;
+}
+.imgpotemaindiv23div-div{
+    margin-top: 90px;
+    padding-right: 130px;
+
+}
+.maindivbgimgdivmain-one13{
+    background-image: url(/hire-bg.jpg);
+    margin-top: 90px;
+    height: 700px;
+}
+.hedigfiveblog{
+font-size: 24px;
+color: #6864ed;
+margin-left: 210px;
+}
+.hedigtwoblogtwo{
+font-size: 60px;
+
+}
+.peregrafaprildiv{
+font-size: 15px;
+color: gray;
+margin-top: 10px;
+margin-left: 15px;
+}
+.alinkforuserdiv{
+font-size: 24px;
+text-decoration: none;
+color: black;
+font-weight: 500;
+margin-left: 15px;
+}
+.imgpotedivimgdiv{
+height: 150px;
+width: 250px;
+margin-top: 10px;
+margin-left: 15px;
+}
+.peregrafdolordiv{
+    margin-top: 10px;
+    font-size: 13px;
+    color: gray;
+    margin-left: 15px;
+}
+.maindivimghedigpadivmain{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    border-radius: 9px;
+    margin-top: 30px;
+    margin-left: 300px;
+}
+.maindivthreeimgzointdiv{
+    display: flex;
+    align-items: center;
+    background-color: white;
+}
+.maindivimghedigpadivmain133{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    border-radius: 9px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.maindivimghedigpadivmain333{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    background-color: white;
+    width: 350px;
+    height: 400px;
+    border-radius: 9px;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+.maindivhedigfivetwozointdiv{
+    margin-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.mainimghedigzointdivmaindiv{
+    display: flex;
+    align-items: center;
+    margin-top: -790px;
+}
+.mainimgpote33divmaindiv{
+    margin-left: 130px;
+}
+.imgbgdivmaindiv-div{
+    height: 850px;
+    width: 100%;
+}
+.imgpotedivemaildiv{
+    border: 2px solid gray;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+}
+.anyquestionclass{
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0%;
+    margin-bottom: 0%;
+}
+.alinkmaindivdiv13{
+    font-size: 24px;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    margin-top: 0%;
+}
+.twozoindivmaindiv-13{
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+
+}
+.threedivmainzoindiv13{
+    display: flex;
+    align-items: center;
+    padding-top: 30px;
+}
+.threedivmainzoindiv135{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.threedivmainzoindiv133{
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+.hedifivetwomain-div13{
+    font-size: 24px;
+    color: #6864ed;
+}
+.hedigtwodiv30fivdivmain{
+    font-size: 50px;
+}
+.imgmaindivimgpotedivmain13{
+    margin-left:190px;
+    margin-top: 290px;
+}
+.spandivmaindiv13{
+    font-style: italic;
+}
+.alinkbehancedivmain{
+    font-size:15px;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    border: 1px solid grey;
+    border-radius: 20px;
+    height: 30px;
+    width: 90px;
+    padding: 3px;
+    padding-left: 10px;
+    align-items: center;
+    margin-top: 65px;
+    margin-right: 5px;
+}
+.alindivmainzoinddiv33{
+    display: flex;
+    align-items: center;
+}
+.formdivmain{
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    /* margin-left: 150px; */
+    background-image: url(/contact-bg.jpg);
+    height: 650px;
+    width: 100%;
+}
+.formdivmainhedig{
+    font-size: 30px;
+    margin-bottom: 30px;
+    
+}
+.namedivmain{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 390px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    background-color: rgb(237, 231, 222);
+}
+.emaildivmain{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 390px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
+    background-color: rgb(237, 231, 222);
+}
+.Messagedivmain{
+    border: none;
+    border-bottom: 2px solid black;
+    width: 390px;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+    background-color: rgb(237, 231, 222);
+}
+.buttondivmaindiv{
+    font-size: 16px;
+    border-radius: 7px;
+    padding: 10px 10px 10px 10px;
+    background-color: #6864ed;
+    color: white;
+    border: none;
+    width: 150px;
+
+}
+.maindivformdivonedivmain{
+    margin-top: 50px;
+    margin-left: 45px;
+}
+.formmaindiv-divone13{
+    border: 1px solid cornsilk;
+    height: 480px;
+    width: 480px;
+    background-color: rgb(237, 231, 222);
+    margin-bottom: 20px;
+    margin-left: 90px;
+}
+.maindivimgsivaydivmaindiv33{
+    display: flex;
+    border: 1px solid white;
+    background-color: white;
+    width: 1190px;
+    margin-left: 30px;
+    height: 690px;
+    margin-bottom: 50px;
+    padding-top: 90px;
+    padding-left: 30px;
+}
+.leftarrowonedivmaindiv23{
+    margin-top: -650px;
+}
+.peregrafdivbgmain{
+    font-size: 16px;
+    color: white;
+    margin-top: 10px;
+    margin-left: 390px;
+}
+.peregrafdivalinkdivmain33{
+font-size: 16px;
+text-transform: none;
+}
+.bgmaindivlinkdiv{
+  font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+}
+.bgmainlinkalikdiv13{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin-left: 30px;
+}
+.alinkdivmainthreedivmaindiv{
+    font-size: 16px;
+    color: white;
+    text-decoration: none;
+    margin-left: 280px;
+}
+.bgmaindivimgdivmaindiv233{
+    background-image: url(/footer-layer1.png);
+    background-color: #0f0b75;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
